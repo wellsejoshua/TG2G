@@ -1,0 +1,155 @@
+.nav a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+  text-align: center;
+}
+
+.jumbotron {
+  background-image:url('http://texasgo2guys.com/shutterstock_143226532.jpg');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron h1 {
+  color: #000000;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: #000000;
+}
+
+.neighborhood-guides {
+    background-color : #efefef;
+    border-bottom : 1px solid #dbdbdb;
+}
+
+.neighborhood-guides.container.row.col-md-6 img{
+
+	width: 500px;
+	height: 100px;
+
+}
+
+
+
+.neighborhood-guides .container h1{
+  text-align:center;
+  color:#000000;
+  margin: auto;
+  font-family: 'Shift', sans-serif;
+  font-size: 30px;  
+  font-weight: bold;
+	
+}
+
+.neighborhood-guides .container h2{
+  text-align:center;
+  color:#000000;
+  margin: auto;
+  font-family: 'Shift', sans-serif;
+  font-size: 30px;  
+  font-weight: bold;
+	
+}
+
+.neighborhood-guides .container h3 {
+  text-align:center;
+  font-family: 'Shift', sans-serif;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+
+
+.neighborhood-guides a:{
+
+  text-align:center;
+  color:#000000;
+  margin: auto;
+  font-family: 'Shift', sans-serif;
+  font-size: 30px;  
+  font-weight: bold;
+  background-color: #808080;
+	
+}
+/* unvisited link */
+a:link {
+    color: #000000;
+}
+
+/* visited link */
+a:visited {
+    color: #999999;
+}
+
+/* mouse over link */
+a:hover {
+    color: #000000;
+	background-color: #808080;
+}
+
+/* selected link */
+a:active {
+    color: #5C5C8A;
+} 
+
+}
+.neighborhood-guides h2 {
+    color:#393c3d;
+    font-size:24px;
+}
+.neighborhood-guides p {
+  font-family: 'Shift', sans-serif;
+  font-size: 14px;
+}
+
+
+
+.neighborhood-guides ul {
+  text-align:left;
+  font-family: 'Shift', sans-serif;
+  font-size: 12px;
+}
+
+.neighborhood-guides .container b {
+	font-family: 'Shift', sans-serif;
+    font-size: 16px;
+    text-decoration: underline;
+}
+
+
+.learn-more {
+  background-color: #f7f7f7;
+}
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.learn-more a {
+  color: #00b0ff;
+}
+
+/* gap for services images and text */
+.gap-right {
+  margin-right: 10px; 
+}
